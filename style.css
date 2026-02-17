@@ -2,15 +2,15 @@
     background-color: #4616c9;
 }
 .color-secondary{
-    background-color: #412377;
+    background-color: #f3f3f3;
 }
 .color-font{
     color: #632cac;
 }
 .button-hover:hover{
-    background-color: #3540a1;
+    background-color: #868dcc;
 }
 .active {
-  background-color: #50c57b; 
+  background-color: #3a0a72; 
   color: white;
 }
